@@ -5,7 +5,7 @@
 
 1. Realice un fork del repositorio https://github.com/GRISE-UPM/PROF_2018_EXFINAL. El nuevo repositorio deberá ser de su propiedad, esto es, no estará ubicado bajo la organización GRISE-UPM. El repositorio deberá ser públicamente accesible.
 
-2. Ejecute los *Smoke Tests*. Deberán fallar todos, debido a que la hora de celebración de este examen son las 15:00. Por ello, el mensaje generado por la clase Greeting será ``Good afternoon`` o ``Buenas tardes``.
+2. Ejecute los *Smoke Tests*. Deberán fallar todos, debido a que la hora de celebración de este examen son las 15:00. Por ello, el mensaje generado por la clase ``Greeting`` será ``Good afternoon`` o ``Buenas tardes``.
 
 3. Cree una rama con nombre ``trabajo`` en su repositorio. Todo lo que se pide en el examen deberá realizarse en esta rama.
 
@@ -13,7 +13,7 @@
 
 5. Realice un commit de los cambios. El comentario debe ser significativo.
 
-6. Reescriba los Smoke Tests utilizando un mock de la clase ``MyCalendar``. Las dependencias para Mockito ya están definidas en ``pom.xml``. 
+6. Reescriba los *Smoke Tests* utilizando un mock de la clase ``MyCalendar``. Las dependencias para Mockito ya están definidas en ``pom.xml``. 
 
 7. Realice un commit de los cambios. El comentario debe ser significativo.
 
