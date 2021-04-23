@@ -13,7 +13,7 @@
 
 5. Realice un commit de los cambios. El comentario debe ser significativo.
 
-6. Reescriba los *Smoke Tests* utilizando un mock de la clase ``MyCalendar``. Las dependencias para Mockito ya están definidas en ``pom.xml``. 
+6. Reescriba los *Smoke Tests* utilizando un mock de la clase ``MyCalendar``.
 
 7. Realice un commit de los cambios. El comentario debe ser significativo.
 
