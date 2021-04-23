@@ -3,7 +3,7 @@
 
 **Se pide:**
 
-1. Realice un fork del repositorio https://github.com/GRISE-UPM/PROF_2018_EXFINAL. El nuevo repositorio deberá ser de su propiedad, esto es, no estará ubicado bajo la organización GRISE-UPM. El repositorio deberá ser públicamente accesible.
+1. Realice un fork del repositorio https://github.com/GRISE-UPM/PROF_2018_EXFINAL. El nuevo repositorio deberá ser de su propiedad, esto es, no estará ubicado bajo la organización GRISE-UPM.
 
 2. Ejecute los *Smoke Tests*. Deberán fallar todos, debido a que la hora de celebración de este examen son las 15:00. Por ello, el mensaje generado por la clase ``Greeting`` será ``Good afternoon`` o ``Buenas tardes``.
 
