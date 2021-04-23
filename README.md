@@ -19,9 +19,9 @@
 
 8. Realice las tareas indicadas a continuación:
 
-  a. Replique el test smokeTest1(). Puede llamarle smokeTest4(). Debe comprobar que smokeTest4() invoca una vez al método Message.getDefaultMessage(), y una vez al método Message.getMessage().
+   a. Replique el test smokeTest1(). Puede llamarle smokeTest4(). Debe comprobar que smokeTest4() invoca una vez al método Message.getDefaultMessage(), y una vez al método Message.getMessage().
 
-  b. Replique el test smokeTest2() de igual manera que en el caso anterior. Puede llamarle smokeTest5(). Debe comprobar que invoca una vez al método Message.getMessage(), pero no invoca nunca al método Message.getDefaultMessage().
+   b. Replique el test smokeTest2() de igual manera que en el caso anterior. Puede llamarle smokeTest5(). Debe comprobar que invoca una vez al método Message.getMessage(), pero no invoca nunca al método Message.getDefaultMessage().
 
 9. Realice un commit de los cambios. El comentario debe ser significativo.
 
